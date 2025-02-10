@@ -127,3 +127,7 @@ h1 {
     background: #ff2929;
     transform: scale(1.05);
 }
+
+img {
+    padding-top: 15px;
+}
